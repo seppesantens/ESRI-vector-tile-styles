@@ -1,0 +1,89 @@
+{
+  "version": 8,
+  "sprite": "https://www.arcgis.com/sharing/rest/content/items/055db2103e0547389eded7957fa5dee7/resources/sprites/sprite-1622827322348",
+  "glyphs": "https://basemaps.arcgis.com/arcgis/rest/services/OpenStreetMap_v2/VectorTileServer/resources/fonts/{fontstack}/{range}.pbf",
+  "sources": {
+    "esri": {
+      "type": "vector",
+      "url": "https://basemaps.arcgis.com/arcgis/rest/services/OpenStreetMap_v2/VectorTileServer",
+      "tiles": [
+        "https://basemaps.arcgis.com/arcgis/rest/services/OpenStreetMap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf"
+      ]
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "fill-color": "#fffded"
+      },
+      "layout": {}
+    }
+  ],
+  "metadata": {
+    "arcgisStyleUrl": "https://www.arcgis.com/sharing/rest/content/items/055db2103e0547389eded7957fa5dee7/resources/styles/root.json",
+    "arcgisOriginalItemTitle": "Westtoer",
+    "arcgisQuickEditor": {
+      "water": "#7ed3f7",
+      "labelTextColor": "#574959",
+      "labelHaloColor": "#fefbfa",
+      "baseColor": "#b2b1ac",
+      "labelContrast": 4.5,
+      "labelColorMode": "LABELS_MAP_COLORS",
+      "colorMode": "CUSTOM",
+      "colors": {
+        "water": "#7ed3f7",
+        "land": "#b2b1ac",
+        "nature": "#bad8a7",
+        "building": "#b3a9a0",
+        "road": "#d1c3bd",
+        "boundaries": "#895b88"
+      }
+    },
+    "arcgisQuickEditorWarning": true,
+    "arcgisEditorExtents": [
+      {
+        "spatialReference": {
+          "latestWkid": 3857,
+          "wkid": 102100
+        },
+        "xmin": 355815.0823497739,
+        "ymin": 6631754.820504957,
+        "xmax": 385663.74189509504,
+        "ymax": 6649564.64809538
+      },
+      {
+        "spatialReference": {
+          "latestWkid": 3857,
+          "wkid": 102100
+        },
+        "xmin": -329616.1947362884,
+        "ymin": 6507398.55192472,
+        "xmax": 301447.910785959,
+        "ymax": 6898756.136744719
+      },
+      {
+        "spatialReference": {
+          "latestWkid": 3857,
+          "wkid": 102100
+        },
+        "xmin": -8594873.192733245,
+        "ymin": 4693156.723815624,
+        "xmax": -8555431.686138114,
+        "ymax": 4717616.572866868
+      },
+      {
+        "spatialReference": {
+          "latestWkid": 3857,
+          "wkid": 102100
+        },
+        "xmin": 16831669.41424023,
+        "ymin": -4011760.489252593,
+        "xmax": 16832901.961321328,
+        "ymax": -4010996.1189697417
+      }
+    ],
+    "arcgisMinimapVisibility": true
+  }
+}
