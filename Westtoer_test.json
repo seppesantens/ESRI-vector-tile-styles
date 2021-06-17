@@ -13,14 +13,6 @@
   },
   "layers": [
     {
-      "id": "background",
-      "type": "background",
-      "paint": {
-        "background-color": "#fffded"
-      },
-      "layout": {}
-    },
-    {
       "id": "land (small scale)/fill",
       "type": "fill",
       "source": "esri",
