@@ -716,7 +716,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "#8d618b",
+        "line-color": "#666666",
         "line-width": {
           "base": 1.2,
           "stops": [
@@ -20146,7 +20146,7 @@
         "line-join": "bevel"
       },
       "paint": {
-        "line-color": "#8d618b",
+        "line-color": "#666666",
         "line-opacity": 0.5,
         "line-dasharray": [
           1,
@@ -20170,7 +20170,7 @@
         "line-join": "bevel"
       },
       "paint": {
-        "line-color": "#8d618b",
+        "line-color": "#666666",
         "line-opacity": 0.5,
         "line-dasharray": [
           3.5,
@@ -20194,7 +20194,7 @@
         "line-join": "bevel"
       },
       "paint": {
-        "line-color": "#8d618b",
+        "line-color": "#666666",
         "line-opacity": 0.5,
         "line-dasharray": [
           7,
@@ -20218,7 +20218,7 @@
         "line-join": "bevel"
       },
       "paint": {
-        "line-color": "#845283",
+        "line-color": "#666666",
         "line-opacity": 0.5,
         "line-width": {
           "base": 1.2,
@@ -20295,7 +20295,7 @@
         "line-join": "bevel"
       },
       "paint": {
-        "line-color": "#845283",
+        "line-color": "#666666",
         "line-opacity": 0.5,
         "line-width": {
           "base": 1.2,
@@ -20349,7 +20349,7 @@
         "line-join": "bevel"
       },
       "paint": {
-        "line-color": "#845283",
+        "line-color": "#666666",
         "line-opacity": 0.5,
         "line-width": {
           "base": 1.2,
