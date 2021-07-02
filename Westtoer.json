@@ -620,25 +620,6 @@
       }
     },
     {
-      "id": "landcover/construction",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "landcover",
-      "filter": [
-        "==",
-        "_symbol",
-        30
-      ],
-      "minzoom": 9,
-      "layout": {
-        "visibility": "none"
-      },
-      "paint": {
-        "fill-antialias": false,
-        "fill-color": "#C7C7B4"
-      }
-    },
-    {
       "id": "landcover/pitch, track/fill",
       "type": "fill",
       "source": "esri",
