@@ -404,23 +404,6 @@
       }
     },
     {
-      "id": "landcover/vineyard/pattern",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "landcover",
-      "filter": [
-        "==",
-        "_symbol",
-        37
-      ],
-      "minzoom": 12,
-      "layout": {},
-      "paint": {
-        "fill-antialias": false,
-        "fill-pattern": "landcover/vineyard"
-      }
-    },
-    {
       "id": "landcover/garden/fill",
       "type": "fill",
       "source": "esri",
@@ -770,23 +753,6 @@
       }
     },
     {
-      "id": "landcover/scree, shingle/pattern",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "landcover",
-      "filter": [
-        "==",
-        "_symbol",
-        42
-      ],
-      "minzoom": 12,
-      "layout": {},
-      "paint": {
-        "fill-antialias": false,
-        "fill-pattern": "landcover/scree, shingle"
-      }
-    },
-    {
       "id": "landcover/grassland",
       "type": "fill",
       "source": "esri",
@@ -828,22 +794,6 @@
       }
     },
     {
-      "id": "landcover/dog park/pattern",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "landcover",
-      "filter": [
-        "==",
-        "_symbol",
-        38
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "landcover/dog park"
-      }
-    },
-    {
       "id": "landcover/plant nursery/fill",
       "type": "fill",
       "source": "esri",
@@ -858,23 +808,6 @@
       "paint": {
         "fill-antialias": false,
         "fill-color": "#aedfa3"
-      }
-    },
-    {
-      "id": "landcover/plant nursery/pattern",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "landcover",
-      "filter": [
-        "==",
-        "_symbol",
-        35
-      ],
-      "minzoom": 12,
-      "layout": {},
-      "paint": {
-        "fill-antialias": false,
-        "fill-pattern": "landcover/plant nursery"
       }
     },
     {
