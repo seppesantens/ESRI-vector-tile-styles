@@ -304,22 +304,7 @@
       "layout": {},
       "paint": {
         "fill-antialias": false,
-        "fill-color": {
-          "stops": [
-            [
-              4,
-              "#e9eacb"
-            ],
-            [
-              10,
-              "#e6e8c4"
-            ],
-            [
-              12,
-              "#D6D99F"
-            ]
-          ]
-        }
+        "fill-color": "#E9D76D"
       }
     },
     {
