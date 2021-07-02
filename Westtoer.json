@@ -1819,18 +1819,7 @@
       "layout": {},
       "paint": {
         "fill-antialias": false,
-        "fill-color": {
-          "stops": [
-            [
-              4,
-              "#d3eed3"
-            ],
-            [
-              12,
-              "#c8d7ab"
-            ]
-          ]
-        }
+        "fill-color": "#E9D76D"
       }
     },
     {
