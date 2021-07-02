@@ -964,23 +964,6 @@
       }
     },
     {
-      "id": "landcover/farmyard/outline",
-      "type": "line",
-      "source": "esri",
-      "source-layer": "landcover",
-      "filter": [
-        "==",
-        "_symbol",
-        32
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "line-color": "#d1b48c",
-        "line-width": 0.5
-      }
-    },
-    {
       "id": "landcover/landfill",
       "type": "fill",
       "source": "esri",
